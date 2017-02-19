@@ -1,0 +1,23 @@
+{
+  "name": "esun_cat_talk",
+  "version": "1.0.0",
+  "description": "喵管家示範程式碼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntuaha/ESUN_CAT_TALK.git"
+  },
+  "author": "Cheng-Yu Lin, aha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntuaha/ESUN_CAT_TALK/issues"
+  },
+  "homepage": "https://github.com/ntuaha/ESUN_CAT_TALK#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "request": "^2.79.0"
+  }
+}
